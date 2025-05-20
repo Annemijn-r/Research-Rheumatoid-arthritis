@@ -1,0 +1,12 @@
+Total_fragments	10000
+Mapped_fragments	9990
+Uniquely_mapped_fragments	8362
+Multi_mapping_fragments	1628
+Unmapped_fragments	10
+Properly_paired_fragments	9598
+Singleton_fragments	67
+More_than_one_chr_fragments	0
+Unexpected_strandness_fragments	1
+Unexpected_template_length	183
+Inversed_mapping	141
+Indels	75
