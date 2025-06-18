@@ -9,7 +9,21 @@ In 2020, approximately 17.6 million people worldwide were living with rheumatoid
 ## 🔬🧪 Materials and Methods
 #### Study Population
 
-This study analysed transcriptomic data from synovial biopsy samples from 8 female individuals, including 4 RA patients (>12 months diagnosis) and 4 healthy controls, as described by [Platzer et al. (2019)](https://doi.org/10.1371/JOURNAL.PONE.0219698). The patients with RA tested positive for anti-cyclic citrullinated peptide antibodies (ACPA), while controls tested negative. 
+This study analysed transcriptomic data from synovial biopsy samples from 8 female individuals, including 4 RA patients (>12 months diagnosis) and 4 healthy controls, as described by [Platzer et al. (2019)](https://doi.org/10.1371/JOURNAL.PONE.0219698). The patients with RA tested positive for anti-cyclic citrullinated peptide antibodies (ACPA), while controls tested negative. Sample metadata is summarised in Table 1.
+
+**Table 1.** Overview of sample metadata used in this study.
+| Sample ID     | Age | Sex    | Condition                        |
+|---------------|-----|--------|----------------------------------|
+| SRR4785819    | 31  | Female | Normal                           |
+| SRR4785820    | 15  | Female | Normal                           |
+| SRR4785828    | 31  | Female | Normal                           |
+| SRR4785831    | 42  | Female | Normal                           |
+| SRR4785979    | 54  | Female | Rheumatoid arthritis (established) |
+| SRR4785980    | 66  | Female | Rheumatoid arthritis (established) |
+| SRR4785986    | 60  | Female | Rheumatoid arthritis (established) |
+| SRR4785988    | 59  | Female | Rheumatoid arthritis (established) |
+
+
 
 #### RNA-seq Data Processing
 Raw RNA sequencing data was processed and analysed using R (V4.4.1; [R Core Team 2021](https://www.R-project.org/)). RA and control samples were mapped against the GRCh38.p14 (GCA_000001405.29) human reference genome using Rsubread (V2.20.0; [Liao et al., 2019](https://doi.org/10.1093/nar/gkz114)). 
