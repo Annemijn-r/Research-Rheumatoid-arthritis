@@ -45,7 +45,7 @@ GO enrichment analysis was carried out with clusterProfiler (V4.14.6l; [Wu et al
 ## 📊 Results
 #### Differential Gene Expression
 
-Gene expression analysis revealed molecular changes in RA compared to controls. KEGG-pathway analysis showed upregulation of immune-related genes such as **MHC class II molecules** and **CTLA-4**.  
+Gene expression analysis revealed molecular changes in RA compared to controls. [KEGG-pathway](KEGG_pathway/hsa05323.pathview.png) analysis showed upregulation of immune-related genes such as **MHC class II molecules** and **CTLA-4**.  
 Downregulated genes included **TGFβ** and **IL17**.
 
 #### GO Enrichment Analysis
