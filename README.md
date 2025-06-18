@@ -50,7 +50,7 @@ Downregulated genes included **TGFβ** and **IL17**.
 
 #### GO Enrichment Analysis
 
-GO enrichment analysis identified multiple pathways to be significantly altered in RA. Among these, upregulated **leukocyte-mediated immunity** (adjusted *p*-value = 2.06 x 10⁻²³, fold enrichment = 2.09) and **lymphocyte-mediated immunity** (adjusted *p*-value = 3.53 x 10⁻²⁵, fold enrichment = 2.30) were selected for further analysis due to their known relevance to RA pathology. Conversely, **axonogenesis** was significantly downregulated (adjusted *p*-value = 3.13 x 10⁻³, fold enrichment = 1.42) and selected for additional examination. 
+GO enrichment analysis identified multiple pathways to be significantly altered in RA. Among these, [upregulated](GO-analysis/Barplot_GO/GO_Upregulated_results_plot.png) **leukocyte-mediated immunity** (adjusted *p*-value = 2.06 x 10⁻²³, fold enrichment = 2.09) and **lymphocyte-mediated immunity** (adjusted *p*-value = 3.53 x 10⁻²⁵, fold enrichment = 2.30) were selected for further analysis due to their known relevance to RA pathology. Conversely, **axonogenesis** was significantly downregulated (adjusted *p*-value = 3.13 x 10⁻³, fold enrichment = 1.42) and selected for additional examination. 
 
 #### Key Genes in RA-Associated Pathways
 
