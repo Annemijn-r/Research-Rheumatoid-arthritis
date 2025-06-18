@@ -35,7 +35,7 @@ An index was created, and paired-end reads were aligned. Sorted and indexed BAM 
 Differential expression between RA and control group was analysed using DESeq2 (V1.46.0; [Love et al., 2014](https://doi.org/10.1186/s13059-014-0550-8)), an adjusted p-value < 0.05 and |log2 fold change| >1 was considered significant.
 
 #### Visualisation of Results
-Volcano plots were generated using EnhancedVolcano (V1.24.0; [Blighe et al., 2023](https://bioconductor.org/packages/EnhancedVolcano/)). KEGGREST (V1.46.0; [Tenenbaum, 2023](https://bioconductor.org/packages/KEGGREST/)) and pathview (V1.46.0; [Luo & Brouwer, 2013](https://doi.org/10.1093/bioinformatics/btt285)) were used to make a specific KEGG-pathway. 
+[Volcano plots](Volcano_plot/Volcano_plot_all_genes_RA.png) were generated using EnhancedVolcano (V1.24.0; [Blighe et al., 2023](https://bioconductor.org/packages/EnhancedVolcano/)). KEGGREST (V1.46.0; [Tenenbaum, 2023](https://bioconductor.org/packages/KEGGREST/)) and pathview (V1.46.0; [Luo & Brouwer, 2013](https://doi.org/10.1093/bioinformatics/btt285)) were used to make a specific KEGG-pathway. 
 
 #### Pathway and Enrichment Analysis
 GO enrichment analysis was carried out with clusterProfiler (V4.14.6l; [Wu et al., 2021](https://doi.org/10.1016/j.xinn.2021.100141)) with the org.Hs.eg.db (V3.20.0; [Carlson, 2023](https://bioconductor.org/packages/org.Hs.eg.db/)) database. Results were visualized with barplots and dotplots using ggplot2 (V3.5.2; [Wickham, 2016](https://ggplot2.tidyverse.org)).
