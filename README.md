@@ -12,16 +12,18 @@ In 2020, approximately 17.6 million people worldwide were living with rheumatoid
 This study analysed transcriptomic data from synovial biopsy samples from 8 female individuals, including 4 RA patients (>12 months diagnosis) and 4 healthy controls, as described by [Platzer et al. (2019)](https://doi.org/10.1371/JOURNAL.PONE.0219698). The patients with RA tested positive for anti-cyclic citrullinated peptide antibodies (ACPA), while controls tested negative. Sample metadata is summarised in Table 1.
 
 **Table 1.** Overview of sample metadata used in this study.
-| Sample ID     | Age | Sex    | Condition                        |
-|---------------|-----|--------|----------------------------------|
-| SRR4785819    | 31  | Female | Normal                           |
-| SRR4785820    | 15  | Female | Normal                           |
-| SRR4785828    | 31  | Female | Normal                           |
-| SRR4785831    | 42  | Female | Normal                           |
+| Sample ID     | Age | Sex    | Condition                          |
+|---------------|-----|--------|------------------------------------|
+| SRR4785819    | 31  | Female | Normal                             |
+| SRR4785820    | 15  | Female | Normal                             |
+| SRR4785828    | 31  | Female | Normal                             |
+| SRR4785831    | 42  | Female | Normal                             |
 | SRR4785979    | 54  | Female | Rheumatoid arthritis (established) |
 | SRR4785980    | 66  | Female | Rheumatoid arthritis (established) |
 | SRR4785986    | 60  | Female | Rheumatoid arthritis (established) |
 | SRR4785988    | 59  | Female | Rheumatoid arthritis (established) |
+| **Average Age** | **29.8** | – | **Normal**                        |
+| **Average Age** | **59.8** | – | **Rheumatoid arthritis (established)** |
 
 
 
