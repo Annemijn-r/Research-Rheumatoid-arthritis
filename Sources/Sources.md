@@ -26,6 +26,8 @@
 
 - Morgan, M., Pagès, H., & Obenchain, V. (2023). Rsamtools: Binary alignment (BAM), FASTA, variant call (BCF) and tabix file import (Version 2.22.0) [R package]. Bioconductor. [https://bioconductor.org/packages/Rsamtools/](https://bioconductor.org/packages/Rsamtools/)
 
+- Platzer, A., Nussbaumer, T., Karonitsch, T., Smolen, J. S., & Aletaha, D. (2019). Analysis of gene expression in rheumatoid arthritis and related conditions offers insights into sex-bias, gene biotypes and co-expression patterns. PLOS ONE, 14(7), e0219698. https://doi.org/10.1371/JOURNAL.PONE.0219698
+
 - Poudel, D., George, M. D., & Baker, J. F. (2020). The Impact of Obesity on Disease Activity and Treatment Response in Rheumatoid Arthritis. *Current Rheumatology Reports*, 22(9), 56. [https://doi.org/10.1007/S11926-020-00933-4](https://doi.org/10.1007/S11926-020-00933-4)
 
 - Pradeepkiran, J. A. (2019). Insights of rheumatoid arthritis risk factors and associations. *Journal of Translational Autoimmunity*, 2, 100012. [https://doi.org/10.1016/J.JTAUTO.2019.100012](https://doi.org/10.1016/J.JTAUTO.2019.100012)
