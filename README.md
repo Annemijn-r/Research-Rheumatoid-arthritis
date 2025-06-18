@@ -18,11 +18,11 @@ This study analysed transcriptomic data from synovial biopsy samples from 8 fema
 | SRR4785820    | 15  | Female | Normal                             |
 | SRR4785828    | 31  | Female | Normal                             |
 | SRR4785831    | 42  | Female | Normal                             |
+| **Average Age** | **29.8** | – | **Normal**                       |
 | SRR4785979    | 54  | Female | Rheumatoid arthritis (established) |
 | SRR4785980    | 66  | Female | Rheumatoid arthritis (established) |
 | SRR4785986    | 60  | Female | Rheumatoid arthritis (established) |
 | SRR4785988    | 59  | Female | Rheumatoid arthritis (established) |
-| **Average Age** | **29.8** | – | **Normal**                        |
 | **Average Age** | **59.8** | – | **Rheumatoid arthritis (established)** |
 
 
