@@ -12,19 +12,19 @@ In 2020, approximately 17.6 million people worldwide were living with rheumatoid
 This study analysed transcriptomic data from synovial biopsy samples from 8 female individuals, including 4 RA patients (>12 months diagnosis) and 4 healthy controls, as described by Platzer et al. (2019). The patients with RA tested positive for anti-cyclic citrullinated peptide antibodies (ACPA), while controls tested negative. 
 
 #### RNA-seq Data Processing
-Raw RNA sequencing data was processed and analysed using R (V4.4.1). RA and control samples were mapped against the GRCh38.p14 (GCA_000001405.29) human reference genome using Rsubread (V2.20.0). 
+Raw RNA sequencing data was processed and analysed using R (V4.4.1; R Core Team 2021). RA and control samples were mapped against the GRCh38.p14 (GCA_000001405.29) human reference genome using Rsubread (V2.20.0; Liao et al., 2019). 
 
 #### Gene Annotation and Filtering
-An index was created, and paired-end reads were aligned. Sorted and indexed BAM files were created with Rsamtools (V2.22.0). Gene data (GFF3-file) were imported via Readr (V2.1.5) and filtered using dplyr (V1.1.4).
+An index was created, and paired-end reads were aligned. Sorted and indexed BAM files were created with Rsamtools (V2.22.0; Morgan et al., 2023). Gene data (GFF3-file) were imported via Readr (V2.1.5; Wickham et al., 2023) and filtered using dplyr (V1.1.4; Wickham et al., 2023).
 
 #### Differential Gene Expression Analysis
-Differential expression between RA and control group was analysed using DESeq2 (V1.46.0), an adjusted p-value < 0.05 and |log2 fold change| >1 was considered significant.
+Differential expression between RA and control group was analysed using DESeq2 (V1.46.0; Love et al., 2014), an adjusted p-value < 0.05 and |log2 fold change| >1 was considered significant.
 
 #### Visualisation of Results
-Volcano plots were generated using EnhancedVolcano (V1.24.0). KEGGREST (V1.46.0) and pathview (V1.46.0) were used to make a specific KEGG-pathway. 
+Volcano plots were generated using EnhancedVolcano (V1.24.0; Blighe et al., 2023). KEGGREST (V1.46.0; Tenenbaum, 2023) and pathview (V1.46.0; Luo & Brouwer, 2013) were used to make a specific KEGG-pathway. 
 
 #### Pathway and Enrichment Analysis
-GO enrichment analysis was carried out with clusterProfiler (V4.14.6) with the org.Hs.eg.db (V3.20.0) database. Results were visualized with barplots and dotplots using ggplot2 (V3.5.2).
+GO enrichment analysis was carried out with clusterProfiler (V4.14.6l Wu et al., 2021) with the org.Hs.eg.db (V3.20.0; Carlson, 2023) database. Results were visualized with barplots and dotplots using ggplot2 (V3.5.2; Wickham, 2016).
 
 ---
 
