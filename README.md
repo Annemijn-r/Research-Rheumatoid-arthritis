@@ -4,6 +4,8 @@
   <img src="ds00020_im02689_r7_rheumatoidarthritisthu_jpg.jpg.webp" alt="flowchart" width="600"/>
 </p>
 
+<p align="center"><b>Figure 1.</b> Rheumatoid Arthritis in hinge joint fingers. With inflammation in the synovial.</p>
+
 ## Contents
 
 - `Countmatrix/` - How many sequencing reads map to each gene for each sample.
