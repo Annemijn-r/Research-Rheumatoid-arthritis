@@ -6,7 +6,7 @@
 - `Data_RA_processed_BAM/` - Compressed, binary version of a SAM file that stores the alignment of sequencing reads to a reference genome.
 - `Data_RA_raw/` - Raw data from heathy controls and people with RA.
 - `GO-analysis/` - Bioinformatics method used to understand the biological meaning behind a list of genes.
-- `GRCh38_data/` - GRCh38 reference genome.
+- `GRCh38_data/` - Index of GRCh38 reference genome.
 
 ## 🧬 Introduction
 
