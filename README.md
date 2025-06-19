@@ -20,10 +20,10 @@
 - `Volcano_plot/` - Created volcano plots.
 
 ## Abbreviations
-- Anti-cyclic citrullinated peptide antibodies - ACPA
-- Gene Ontology - GO
-- Rheumatoid Arthritis - RA
-- RNA sequencing - RNA-seq
+- ACPA - Anti-cyclic citrullinated peptide antibodies
+- GO - Gene Ontology
+- RA - Rheumatoid Arthritis
+- RNA-seq - RNA sequencing 
 
 ## 🧬 Introduction
 
