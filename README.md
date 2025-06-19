@@ -7,6 +7,11 @@
 - `Data_RA_raw/` - Raw data from heathy controls and people with RA.
 - `GO-analysis/` - Bioinformatics method used to understand the biological meaning behind a list of genes.
 - `GRCh38_data/` - Index of GRCh38 reference genome.
+- `KEGG-pathway/` - KEGG-pathway of the down- and up-regulation of genes in RA
+- `RData_RA/` - Scripts used for data processing and GO-analysis.
+- `Results_analysis_dds/` - Resultst of the DESeqDataSet analysis.
+- `Sources/` - Used sources.
+- `Volcano_plot/` - Created volcano plots.
 
 ## 🧬 Introduction
 
