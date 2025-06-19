@@ -1,5 +1,5 @@
 # Transcriptomic Analysis of Rheumatoid Arthritis
-
+---
 ## Contents
 
 - `Countmatrix/` - How many sequencing reads map to each gene for each sample.
@@ -12,6 +12,12 @@
 - `Results_analysis_dds/` - Resultst of the DESeqDataSet analysis.
 - `Sources/` - Used sources.
 - `Volcano_plot/` - Created volcano plots.
+
+## Abbreviations
+- Anti-cyclic citrullinated peptide antibodies - ACPA
+- Gene Ontology - GO
+- Rheumatoid Arthritis - RA
+- RNA sequencing - RNA-seq
 
 ## 🧬 Introduction
 
