@@ -67,7 +67,7 @@ Differential expression between RA and control group was analysed using DESeq2 (
 [Volcano plots](Volcano_plot/Volcano_plot_all_genes_RA.png) were generated using EnhancedVolcano (V1.24.0; [Blighe et al., 2023](https://bioconductor.org/packages/EnhancedVolcano/)). KEGGREST (V1.46.0; [Tenenbaum, 2023](https://bioconductor.org/packages/KEGGREST/)) and pathview (V1.46.0; [Luo & Brouwer, 2013](https://doi.org/10.1093/bioinformatics/btt285)) were used to make a specific KEGG-pathway. 
 
 #### Pathway and Enrichment Analysis
-GO enrichment analysis was carried out with clusterProfiler (V4.14.6; [Wu et al., 2021](https://doi.org/10.1016/j.xinn.2021.100141)) with the org.Hs.eg.db (V3.20.0; [Carlson, 2023](https://bioconductor.org/packages/org.Hs.eg.db/)) database. Results were visualized with barplots and dotplots using ggplot2 (V3.5.2; [Wickham, 2016](https://ggplot2.tidyverse.org)).
+GO enrichment analysis was carried out with clusterProfiler (V4.14.6; [Wu et al., 2021](https://doi.org/10.1016/j.xinn.2021.100141)) with the org.Hs.eg.db (V3.20.0; [Carlson, 2023](https://bioconductor.org/packages/org.Hs.eg.db/)) database. The top 10 enriched GO terms were visualized using barplots and dotplots using ggplot2 (V3.5.2; [Wickham, 2016](https://ggplot2.tidyverse.org)).
 
 The complete analysis and scripts are available on [GitHub](RData_RA).
 <p align="center">
