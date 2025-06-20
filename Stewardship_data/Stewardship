@@ -4,44 +4,44 @@ De student laat dat zien door:
 
 A| Context
 - Blijk te geven van globale kennis over de context waarbinnen relevante beheersystemen zijn ingericht.
+
 Tijdens het onderzoek doen naar reumatoid atritis heb ik gebruik gemaakt van R, voor het analyseren van de verkregen data van gezonde patiënten en patiënten met reuma. 
 Het gebruiken van R helpt bij het controleren of de data betrouwbaar is en welke gegevens bijdragen aan een antwoord op de onderzoeksvraag. Daarnaast kan R gebruikt worden
-om snel en efficiënt data te onderzoeken door gebruik te maken van relevante packages, die beschikbaar zijn in R. Door de data correct te verwerken op een GitHub pagina, kan 
-het onderzoek herhaald worden en is het dus reproduceerbaar. Dit zorgt ervoor dat de verkregen data/ resultaten transparant zijn. Ik heb globale kennis opgedaan over de context waarbinnen
-deze (R en Github) relevante beheersystemen zijn ingericht.
+om snel en efficiënt data te onderzoeken door gebruik te maken van relevante packages, die beschikbaar zijn in R. Het is belangrijk om het beheren van data correct uit te voeren 
+om het onderzoek reproduceerbaar te maken en om het betrouwbaar te laten zijn. Daarnaast is het beheren van een programmeercode zeer belangrijk om
+structuur in het werk te houden en om transparant te zijn over de uitgevoerde stappen. Door de data correct te verwerken op een GitHub pagina, kan 
+het onderzoek herhaald worden en is het dus reproduceerbaar wanneer de context duidelijk is. Dit zorgt ervoor dat de verkregen data/ resultaten transparant zijn. Ik heb globale kennis opgedaan over de context 
+waarbinnen deze (R en Github) relevante beheersystemen zijn ingericht. 
 
 B| Inrichting en inhoud van het systeem
 - De richtlijnen van relevante beheersystemen na te leven door passend te handelen bij de uitvoering van de eigen werkzaamheden.
+
 Tijdens het verwerken van mijn data in R heb ik mij gehouden aan de bestaande richtlijnen en protocollen, waardoor reproducerbare en betrouwbare resultaten werden verkregen bij de uitvoering van
 mijn eigen werkzaamheden. Het gebruik van GitHub maakt het mogelijk om transprantie te laten zien, door alle data, resultaten en scripts te noteren. GitHub maakt ook gebruik van versiebeheer, wat
-ook zeer belangrijk is en relevant tijdens het doen van onderzoek, om zo betrouwbare en reproduceerbare resultaten te verkrijgen. Door de richtlijnen van relevante beheersystemen na te leven, heb ik
-inzicht gekregen in het belang van het doen van reproduceerbaar en betrouwbaar onderzoek en heb ik de relevantie van de beheersystemen toegepast op mijn manier van onderzoek doen en data te noteren.
+ook zeer belangrijk is en relevant tijdens het doen van onderzoek, om zo betrouwbare en reproduceerbare resultaten te verkrijgen. Bij versiebeheer wordt er automatisch bijgehouden wat er wordt gewijzigd en wanneer. 
+Dit doe je zodat je kan terugzien wat er aangepast is en door wie. Ook is het handig om hierdoor vorige versies terug te halen wanneer er fouten zijn gemaakt. 
+Daarnaast kan het ook helpen bij het creeëren van overzicht, door te controleren wanneer wat is aangepast en/ of toegevoegd. Wat ook bijdraagt aan de reproduceerbaarheid van het onderzoek. 
+Om alle data overzichtelijk op te slaan is het gerbuik van een mappenstructuur zeer belangrijk. Waardoor de data opnieuw verkregen kan worden en reproduceerbaarheid gewaarborgt wordt. 
+Hierdoor kunnen andere onderzoekers makkelijker de gebruikte en verkregen data terugvinden, wat verder onderzoek mogelijk maakt. 
+Door alle data onder relevante en consistente namen op te slaan waarborg je de reproduceerbaarheid en structuur tijdens het onderzoek. Ook kan hierdoor de data door anderen makkelijker worden teruggevonden.
+Door de richtlijnen van relevante beheersystemen na te leven, heb ik inzicht gekregen in het belang van het doen van reproduceerbaar en betrouwbaar onderzoek en heb ik de relevantie van de beheersystemen toegepast op mijn 
+manier van onderzoek doen en data te noteren.
 
 C| Communicatie en rapportage 
 - Te communiceren over (de naleving van) de richtlijnen van de relevante beheersystemen bij uitvoering van zijn werkzaamheden.
-Door duidelijk te communiceren over de richtlijnen van de relvante beheersystemen R en GitHub bij het uitvoeren van de werkzaamheden, zullen betrouwbare resultaten verkregen worden. De communicatie heeft 
-bijgedragen aan het correct onderzoeken en programmeren van de resultaten in R. Daarnaast heeft de communicatie bijgedragen aan het correct interpreteren en overbrengen van de resultaten en conclusie in GitHub.
-Zoals eerder aangegeven heeft hierbij ook de communicatie bijgerdagen aan reproduceerbare en betrouwbare resultaten in R en transparantie in GitHub.
 
-Het is belangrijk om het beheren van data correct uit te voeren om het onderzoek reproduceerbaar te maken en om het betrouwbaar te laten zijn. Daarnaast is het beheren van een programmeercode zeer belangrijk om
-structuur in het werk te houden en om transparant te zijn over de uitgevoerde stappen. Om alle data overzichtelijk op te slaan is het gerbuik van een mappenstructuur zeer belangrijk. Hierdoor kan de data 
-opnieuw worden verkregen, waardoor reproduceerbaarheid gewaarborgt wordt. Hierdoor kunnen andere onderzoekers makkelijker de gebruikte en verkregen data terugvinden, wat verder onderzoek mogelijk maakt. 
-Door alle data onder relevante en consistente namen op te slaan waarborg je de reproduceerbaarheid en structuur tijdens het onderzoek. Ook kan hierdoor de data door anderen makkelijker worden teruggevonden.
-
-
-
-
-
-Uitleg over een efficiënte en gestructureerde manier van beheren.
-
-Enkele hulpvragen staan hieronder weergeven. Dit zijn enkele voorbeelden om te schetsen wat er van je verwacht wordt. Denk dus ook zelf goed na over het beheren van data, het belang hiervan en hoe je dat vorm kunt geven!
-
-Waarom is dit een belangrijk onderdeel van onderzoek doen?
-Wat is een duidelijke mappenstructuur en waarom houd je dat aan?
-Wat is een handige manier voor de naamgeving van bestanden en waarom?
-Wat houdt versiebeheer in en waarom doe je dit?
-Hoe zorg je voor goede documentatie in scripts?
-Wat voor platforms kan je gebruiken om scripts te delen?
-Welke tools gebruik je voor data-analyse, zoals bijvoorbeeld voor het veilig opslaan van data?
-Hoe zou je omgaan met gevoelige of persoonlijke data?
-Wat is het belang van open data en het publiceren van datasets?
+Door duidelijk te communiceren over de richtlijnen van de relevante beheersystemen R en GitHub bij het uitvoeren van de werkzaamheden, zullen betrouwbare resultaten verkregen worden. 
+De communicatie heeft bijgedragen aan het correct onderzoeken en programmeren van de resultaten in R, én aan het correct interpreteren en overbrengen van de resultaten en conclusies in GitHub.
+Door het gebruik van belangrijke, duidelijke en structurele bijschriften in R zorg je voor goede en overzichtelijke documentatie. 
+Hierdoor kan de lezer, en jijzelf, zien wat wanneer is uitgevoerd, wat bij welke stap hoort en welke resultaten je krijgt of verwacht.
+Het delen van scripts kan op verschillende manieren, zoals via GitHub of JupyterHub. 
+Ook kan je een script omzetten naar een PDF-bestand, zodat je het makkelijk als bijlage kunt toevoegen aan een verslag.
+Afhankelijk van de soort data kan je verschillende soorten tools gebruiken. Voor data-analyse kan je goed gebruik maken van R of Python, maar ook Excel kan gebruikt worden voor het analyseren van data en het maken van overzichtelijke figuren.
+Voor het veilig opslaan van data is het van belang dat dit tijdig gebeurt en met duidelijke omschrijvingen, zodat bijvoorbeeld foute aanpassingen snel teruggevonden kunnen worden. 
+Hiervoor kan je gebruik maken van GitHub met versiebeheer om alles goed en concreet bij te houden.
+Daarnaast is het belangrijk om gevoelige en persoonlijke data op een veilige en beschermde plek op te slaan, waar niet zomaar iedereen bij kan. 
+Door bijvoorbeeld het verwijderen van gevoelige en persoonlijke gegevens uit patiëntdata, die niet cruciaal zijn voor het onderzoek, hou je de privacy van betrokkenen gewaarborgd.
+Het is belangrijk om je onderzochte data te kunnen publiceren, zodat andere onderzoekers hier verder op kunnen ingaan en het onderzoek kunnen herhalen. 
+Hierdoor ontstaat een steeds grotere database aan onderzoeken, wat van belang is voor vervolgonderzoek. Daarbij moet de data betrouwbaar en reproduceerbaar zijn om als relevant te worden beschouwd.
+Het is van groot belang om te communiceren over de richtlijnen van de relevante beheersystemen bij de uitvoering van werkzaamheden, hierdoor kan een onderzoek herhaald worden en kan het bijdragen aan vervolg onderzoek.
+Hierdoor heb ik geleerd dat het correct rapporteren van data bijdraagt aan overzicht en structuur wat van groot belang is bij het doen van onderzoek.
