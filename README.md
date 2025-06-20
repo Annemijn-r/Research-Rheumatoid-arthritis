@@ -4,6 +4,8 @@
   <img src="ds00020_im02689_r7_rheumatoidarthritisthu_jpg.jpg.webp" alt="flowchart" width="600"/>
 </p>
 
+<p align="center"><b>Figure 1.</b> Rheumatoid Arthritis in hinge joint fingers. With inflammation in the synovial.</p>
+
 ## Contents
 
 - `Countmatrix/` - How many sequencing reads map to each gene for each sample.
@@ -18,14 +20,14 @@
 - `Volcano_plot/` - Created volcano plots.
 
 ## Abbreviations
-- Anti-cyclic citrullinated peptide antibodies - ACPA
-- Gene Ontology - GO
-- Rheumatoid Arthritis - RA
-- RNA sequencing - RNA-seq
+- ACPA - Anti-cyclic citrullinated peptide antibodies
+- GO - Gene Ontology
+- RA - Rheumatoid Arthritis
+- RNA-seq - RNA sequencing 
 
 ## 🧬 Introduction
 
-In 2020, approximately 17.6 million people worldwide were living with rheumatoid arthritis (RA) ([Black et al., 2023](https://doi.org/10.1016/S2665-9913(23)00211-4)), with an estimate of 500,000 new cases occurring each year ([Zhang et al., 2025](https://doi.org/10.1038/S41598-025-92150-1;SUBJMETA=4023,420,692;KWRD=PATHOGENESIS,RHEUMATOLOGY)). RA is a chronic autoimmune disease characterized by inflammation, driven by abnormal post-translational modification of citrullinated peptides, leading to synovial inflammation, bone and cartilage erosion and joint destruction ([Jahid et al., 2023](https://doi.org/10.31138/MJR.20230801.OO)). Despite advances in research, there is still no cure in sight ([Schett et al., 2021](https://doi.org/10.1038/S41584-020-00543-5;SUBJMETA=1670,1750,256,4023,420,498,692,700;KWRD=INFLAMMATION,PROGNOSIS,RHEUMATOID+ARTHRITIS)), however, early diagnosis can enable disease remission ([Baker et al., 2024](https://doi.org/10.1136/ARD-2024-226772)). Studies indicate that females are at higher risk, possibly due to oestrogen metabolites ([Pradeepkiran, 2019](https://doi.org/10.1016/J.JTAUTO.2019.100012); [Alpízar-Rodríguez et al., 2017](https://doi.org/10.1093/RHEUMATOLOGY/KEW318); [Jiang et al., 2024](https://doi.org/10.1136/RMDOPEN-2023-003338)). Other risk factors include genetics, smoking, obesity, lung disease and age, which affect gene expression through epigenetic changes ([Poudel et al., 2020](https://doi.org/10.1007/S11926-020-00933-4); [Ishikawa & Terao, 2020](https://doi.org/10.3390/CELLS9020475); [Yunt & Solomon, 2015](https://doi.org/10.1016/J.RDC.2014.12.004)). Compared to healthy individuals, RA patients show distinct alterations in molecular pathways due to the up- and downregulation of genes ([Hao et al., 2017](https://doi.org/10.7717/PEERJ.3078/SUPP-2)). These differences can be detected through RNA sequencing (RNA-seq), transcriptomic and Gene Ontology (GO) enrichment analysis, providing valuable insight for diagnosis and treatment. By researching RA at molecular level, this study contributes to earlier and more accurate diagnosis and to generate insights that may inform future diagnostic and therapeutic approaches. 
+In 2020, approximately 17.6 million people worldwide were living with rheumatoid arthritis (RA) ([Black et al., 2023](https://doi.org/10.1016/S2665-9913(23)00211-4)), with an estimate of 500,000 new cases occurring each year ([Zhang et al., 2025](https://doi.org/10.1038/S41598-025-92150-1;SUBJMETA=4023,420,692;KWRD=PATHOGENESIS,RHEUMATOLOGY)). RA is a chronic autoimmune disease characterized by inflammation, driven by abnormal post-translational modification of citrullinated peptides, leading to synovial inflammation, bone and cartilage erosion and joint destruction (figure 1) ([Jahid et al., 2023](https://doi.org/10.31138/MJR.20230801.OO)). Despite advances in research, there is still no cure in sight ([Schett et al., 2021](https://doi.org/10.1038/S41584-020-00543-5;SUBJMETA=1670,1750,256,4023,420,498,692,700;KWRD=INFLAMMATION,PROGNOSIS,RHEUMATOID+ARTHRITIS)), however, early diagnosis can enable disease remission ([Baker et al., 2024](https://doi.org/10.1136/ARD-2024-226772)). Studies indicate that females are at higher risk, possibly due to oestrogen metabolites ([Pradeepkiran, 2019](https://doi.org/10.1016/J.JTAUTO.2019.100012); [Alpízar-Rodríguez et al., 2017](https://doi.org/10.1093/RHEUMATOLOGY/KEW318); [Jiang et al., 2024](https://doi.org/10.1136/RMDOPEN-2023-003338)). Other risk factors include genetics, smoking, obesity, lung disease and age, which affect gene expression through epigenetic changes ([Poudel et al., 2020](https://doi.org/10.1007/S11926-020-00933-4); [Ishikawa & Terao, 2020](https://doi.org/10.3390/CELLS9020475); [Yunt & Solomon, 2015](https://doi.org/10.1016/J.RDC.2014.12.004)). Compared to healthy individuals, RA patients show distinct alterations in molecular pathways due to the up- and downregulation of genes ([Hao et al., 2017](https://doi.org/10.7717/PEERJ.3078/SUPP-2)). These differences can be detected through RNA sequencing (RNA-seq), transcriptomic and Gene Ontology (GO) enrichment analysis, providing valuable insight for diagnosis and treatment. By researching RA at molecular level, this study contributes to earlier and more accurate diagnosis and to generate insights that may inform future diagnostic and therapeutic approaches. 
 
 ---
 
