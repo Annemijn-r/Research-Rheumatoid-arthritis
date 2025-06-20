@@ -20,8 +20,13 @@ inzicht gekregen in het belang van het doen van reproduceerbaar en betrouwbaar o
 C| Communicatie en rapportage 
 - Te communiceren over (de naleving van) de richtlijnen van de relevante beheersystemen bij uitvoering van zijn werkzaamheden.
 Door duidelijk te communiceren over de richtlijnen van de relvante beheersystemen R en GitHub bij het uitvoeren van de werkzaamheden, zullen betrouwbare resultaten verkregen worden. De communicatie heeft 
-bijgedragen aan 
+bijgedragen aan het correct onderzoeken en programmeren van de resultaten in R. Daarnaast heeft de communicatie bijgedragen aan het correct interpreteren en overbrengen van de resultaten en conclusie in GitHub.
+Zoals eerder aangegeven heeft hierbij ook de communicatie bijgerdagen aan reproduceerbare en betrouwbare resultaten in R en transparantie in GitHub.
 
+Het is belangrijk om het beheren van data correct uit te voeren om het onderzoek reproduceerbaar te maken en om het betrouwbaar te laten zijn. Daarnaast is het beheren van een programmeercode zeer belangrijk om
+structuur in het werk te houden en om transparant te zijn over de uitgevoerde stappen. Om alle data overzichtelijk op te slaan is het gerbuik van een mappenstructuur zeer belangrijk. Hierdoor kan de data 
+opnieuw worden verkregen, waardoor reproduceerbaarheid gewaarborgt wordt. Hierdoor kunnen andere onderzoekers makkelijker de gebruikte en verkregen data terugvinden, wat verder onderzoek mogelijk maakt. 
+Door alle data onder relevante en consistente namen op te slaan waarborg je de reproduceerbaarheid en structuur tijdens het onderzoek. Ook kan hierdoor de data door anderen makkelijker worden teruggevonden.
 
 
 
