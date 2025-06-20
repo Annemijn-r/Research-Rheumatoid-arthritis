@@ -80,8 +80,7 @@ The complete analysis and scripts are available on [GitHub](RData_RA).
 ## 📊 Results
 #### Differential Gene Expression
 
-Gene expression analysis revealed molecular changes in RA compared to controls. [KEGG-pathway](KEGG_pathway/hsa05323.pathview.png) analysis showed upregulation of immune-related genes such as **MHC class II molecules** and **CTLA-4**.  
-Downregulated genes included **TGFβ** and **IL17**.
+Gene expression analysis revealed molecular changes in RA compared to controls. [KEGG-pathway](KEGG_pathway/hsa05323.pathview.png) analysis showed upregulation of immune-related genes such as **MHC class II molecules** and **CTLA-4**. Downregulated genes included **TGFβ** and **IL17**.
 
 #### GO Enrichment Analysis
 
