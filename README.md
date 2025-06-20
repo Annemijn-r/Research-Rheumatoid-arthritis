@@ -4,7 +4,7 @@
   <img src="Used_images/ds00020_im02689_r7_rheumatoidarthritisthu_jpg.jpg.webp" alt="flowchart" width="600"/>
 </p>
 
-<p align="center"><b>Figure 1.</b> Rheumatoid Arthritis in hinge joint fingers. With inflammation in the synovial ([Fraenkel et al., 2021](https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648)).</p>
+<p align="center"><b>Figure 1.</b> Rheumatoid Arthritis in hinge joint fingers. With inflammation in the synovial (<a href="https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648">Fraenkel et al., 2021</a>).</p>
 
 ## Contents
 
