@@ -17,8 +17,8 @@
 - `RData_RA/` - Scripts used for data processing and GO-analysis.
 - `Results_analysis_dds/` - Resultst of the DESeqDataSet analysis.
 - `Sources/` - Used sources.
-- 'Stewardship_data/' - 
-- 'Used_images/' - Used images.
+- `Stewardship_data/` - Competency in management level 1.
+- `Used_images/` - Used images.
 - `Volcano_plot/` - Created volcano plots.
 
 ## Abbreviations
