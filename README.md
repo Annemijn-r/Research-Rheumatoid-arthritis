@@ -72,6 +72,7 @@ The complete analysis and all scripts are available on [GitHub](RData_RA).
   <img src="Used_images/Flowchart methods.png" alt="flowchart" width="600"/>
 </p>
 <p align="center"><b>Figure 2.</b> Flowchart of the used methods of data processing.</p>
+
 ---
 
 ## 📊 Results
@@ -86,7 +87,20 @@ GO enrichment analysis identified multiple pathways to be significantly altered 
 
 #### Key Genes in RA-Associated Pathways
 
-Across the leukocyte mediated immunity pathway, genes associated with RA included **TNF** and **CD40/CD40LG**. Upregulation of **IL6** and **HLA-DRB1** was detected in the lymphocyte mediated immunity pathway. In contrast, the axonogenesis-related genes **GDNF** and **NGFR** were downregulated and selected due to their relevance in neurogenic inflammation and their role in RA pathogenesis.
+Across the leukocyte mediated immunity pathway, genes associated with RA included **TNF** and **CD40/CD40L**. Upregulation of **IL6** and **HLA-DRB1** was detected in the lymphocyte mediated immunity pathway. In contrast, the axonogenesis-related genes **GDNF** and **NGFR** were downregulated and selected due to their relevance in neurogenic inflammation and their role in RA pathogenesis.
+
+| Molecule              |Role                                |Source                      |
+|-----------------------|------------------------------------|----------------------------|
+| **HLA‑DRB1 (MHC II)** |Facilitate presentation of citrullinated peptides to CD4⁺ T cells, causing autoimmune inflammation and higher disease activity.|([Wysocki et al., 2020](https://pmc.ncbi.nlm.nih.gov/articles/PMC7291248/))|
+| **CTLA‑4**            |Suppresses self-reactive T cell responses via downregulating ligand availability. Expressed on the surface of Treg cells and conventional T cells.|([Zhou et al., 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC8386564/))|
+| **TNF**               |Initiates signal transduction pathways. Leading to various cellular responses, including cell survival, differentiation, and proliferation. Excessive activation is associated with chronic inflammation and can lead to RA.|([Jang et al., 2021](https://pmc.ncbi.nlm.nih.gov/articles/PMC7962638/))|
+| **CD40 / CD40L**      |Triggers immune activation, cytokine release, and survival signaling of cells.|([Román-Fernández et al., 2019](https://pubmed.ncbi.nlm.nih.gov/31313080/))|
+| **IL‑6**              |Dysregulated production leads to inflammation.|([Pal et al., 2023](https://pubmed.ncbi.nlm.nih.gov/35963927/))|
+| **IL‑17**             |Regulate the proliferation, migration, and apoptosis of vascular endothelial cells and vascular smooth muscle cells.|([Wang et al., 2022](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.828933/full))|
+| **TGF‑β**             |Regulation of  cell survival, metabolism, growth, proliferation, differentiation, adhesion, migration, and death.|([Deng et al., 2024](https://www.nature.com/articles/s41392-024-01764-w))
+| **NGFR**              |Binds to NGF and stimulate nerve growth and regulate differentiation of neurons.|([Zhao et al., 2023](https://www.biorxiv.org/content/10.1101/2023.12.21.572937v1))
+| **GDNF**              |Regulation of neuroinflammatory processes|([Shalkovskyi & Stanislavchuk, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11114127/))|
+
 
 ---
 ## 💡 Conclusion 
