@@ -1,3 +1,32 @@
+Competentie beheren (niveau 1)
+- De student handelt binnen de gegeven kaders en procedures beschreven in relevante beheersystemen.
+De student laat dat zien door:
+
+A| Context
+- Blijk te geven van globale kennis over de context waarbinnen relevante beheersystemen zijn ingericht.
+Tijdens het onderzoek doen naar reumatoid atritis heb ik gebruik gemaakt van R, voor het analyseren van de verkregen data van gezonde patiënten en patiënten met reuma. 
+Het gebruiken van R helpt bij het controleren of de data betrouwbaar is en welke gegevens bijdragen aan een antwoord op de onderzoeksvraag. Daarnaast kan R gebruikt worden
+om snel en efficiënt data te onderzoeken door gebruik te maken van relevante packages, die beschikbaar zijn in R. Door de data correct te verwerken op een GitHub pagina, kan 
+het onderzoek herhaald worden en is het dus reproduceerbaar. Dit zorgt ervoor dat de verkregen data/ resultaten transparant zijn. Ik heb globale kennis opgedaan over de context waarbinnen
+deze (R en Github) relevante beheersystemen zijn ingericht.
+
+B| Inrichting en inhoud van het systeem
+- De richtlijnen van relevante beheersystemen na te leven door passend te handelen bij de uitvoering van de eigen werkzaamheden.
+Tijdens het verwerken van mijn data in R heb ik mij gehouden aan de bestaande richtlijnen en protocollen, waardoor reproducerbare en betrouwbare resultaten werden verkregen bij de uitvoering van
+mijn eigen werkzaamheden. Het gebruik van GitHub maakt het mogelijk om transprantie te laten zien, door alle data, resultaten en scripts te noteren. GitHub maakt ook gebruik van versiebeheer, wat
+ook zeer belangrijk is en relevant tijdens het doen van onderzoek, om zo betrouwbare en reproduceerbare resultaten te verkrijgen. Door de richtlijnen van relevante beheersystemen na te leven, heb ik
+inzicht gekregen in het belang van het doen van reproduceerbaar en betrouwbaar onderzoek en heb ik de relevantie van de beheersystemen toegepast op mijn manier van onderzoek doen en data te noteren.
+
+C| Communicatie en rapportage 
+- Te communiceren over (de naleving van) de richtlijnen van de relevante beheersystemen bij uitvoering van zijn werkzaamheden.
+Door duidelijk te communiceren over de richtlijnen van de relvante beheersystemen R en GitHub bij het uitvoeren van de werkzaamheden, zullen betrouwbare resultaten verkregen worden. De communicatie heeft 
+bijgedragen aan 
+
+
+
+
+
+
 Uitleg over een efficiënte en gestructureerde manier van beheren.
 
 Enkele hulpvragen staan hieronder weergeven. Dit zijn enkele voorbeelden om te schetsen wat er van je verwacht wordt. Denk dus ook zelf goed na over het beheren van data, het belang hiervan en hoe je dat vorm kunt geven!
