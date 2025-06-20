@@ -87,7 +87,7 @@ GO enrichment analysis identified multiple pathways to be significantly altered 
 
 #### Key Genes in RA-Associated Pathways
 
-Across the leukocyte mediated immunity pathway, genes associated with RA included **TNF** and **CD40/CD40L**. Upregulation of **IL6** and **HLA-DRB1** was detected in the lymphocyte mediated immunity pathway. In contrast, the axonogenesis-related genes **GDNF** and **NGFR** were downregulated and selected due to their relevance in neurogenic inflammation and their role in RA pathogenesis.
+Across the leukocyte mediated immunity pathway, genes associated with RA included **TNF** and **CD40/CD40L**. Upregulation of **IL6** and **HLA-DRB1** was detected in the lymphocyte mediated immunity pathway. In contrast, the axonogenesis-related genes **GDNF** and **NGFR** were downregulated and selected due to their relevance in neurogenic inflammation and their role in RA pathogenesis. Table 2 provides a summary of the biological functions of the key genes.
 
 **Table 2.** Summary of the analyzed key genes, including their biological function and relevant literature sources.
 | Molecule              |Role                                |Source                      |
