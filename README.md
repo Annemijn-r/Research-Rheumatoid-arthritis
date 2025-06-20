@@ -55,7 +55,7 @@ This study analysed transcriptomic data from synovial biopsy samples from 8 fema
 
 
 #### RNA-seq Data Processing
-Raw RNA sequencing data was processed and analysed using R (V4.4.1; [R Core Team 2021](https://www.R-project.org/)). RA and control samples were mapped against the GRCh38.p14 (GCA_000001405.29) human reference genome using Rsubread (V2.20.0; [Liao et al., 2019](https://doi.org/10.1093/nar/gkz114)). 
+Raw RNA sequencing data was processed and analysed using R (V4.4.1; [R Core Team 2021](https://www.R-project.org/)). RA and control samples were mapped against the [GRCh38.p14](https://ftp.ensembl.org/pub/release-114/fasta/homo_sapiens/dna/Homo_sapiens.GRCh38.dna.toplevel.fa.gz) (GCA_000001405.29) human reference genome using Rsubread (V2.20.0; [Liao et al., 2019](https://doi.org/10.1093/nar/gkz114)). 
 
 #### Gene Annotation and Filtering
 An index was created, and paired-end reads were aligned. Sorted and indexed BAM files were created with Rsamtools (V2.22.0; [Morgan et al., 2023](https://bioconductor.org/packages/Rsamtools/)). Gene data (GFF3-file) were imported via Readr (V2.1.5; [Wickham et al., 2023](https://CRAN.R-project.org/package=readr)) and filtered using dplyr (V1.1.4; [Wickham et al., 2023](https://CRAN.R-project.org/package=dplyr)).
