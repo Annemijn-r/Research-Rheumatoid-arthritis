@@ -4,7 +4,7 @@
   <img src="Used_images/ds00020_im02689_r7_rheumatoidarthritisthu_jpg.jpg.webp" alt="flowchart" width="600"/>
 </p>
 
-<p align="center"><b>Figure 1.</b> Rheumatoid Arthritis in hinge joint fingers. With inflammation in the synovial.</p>
+<p align="center"><b>Figure 1.</b> Rheumatoid Arthritis in hinge joint fingers. With inflammation in the synovial ([Fraenkel et al., 2021](https://www.mayoclinic.org/diseases-conditions/rheumatoid-arthritis/symptoms-causes/syc-20353648)).</p>
 
 ## Contents
 
@@ -112,4 +112,4 @@ This analysis shows significant alterations in immune-related and nervous system
 
 Key genes like **TNF, CD40/CD40LG, IL6,** and **HLA-DRB1**  are central to inflammation and RA pathogenesis. Additionally, the downregulation of **GDNF** and **NGFR** highlights a potential neurogenic component of RA, suggesting involvement of the nervous system in disease progression.
  
-Due to the limited sample size and demographic variation, further research with a larger and more varied study population is needed to confirm these findings and ensure their reliability.
+Due to the limited sample size, the presence of only female participants, and a significantly lower average age in the control group, further research with a larger and more varied study population is needed to confirm these findings and ensure their reliability.
