@@ -100,7 +100,7 @@ Across the leukocyte mediated immunity pathway, genes associated with RA include
 | **IL‑17**             |Regulate the proliferation, migration, and apoptosis of vascular endothelial cells and vascular smooth muscle cells.|([Wang et al., 2022](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2022.828933/full))|
 | **TGF‑β**             |Regulation of  cell survival, metabolism, growth, proliferation, differentiation, adhesion, migration, and death.|([Deng et al., 2024](https://www.nature.com/articles/s41392-024-01764-w))
 | **NGFR**              |Binds to NGF and stimulate nerve growth and regulate differentiation of neurons.|([Zhao et al., 2023](https://www.biorxiv.org/content/10.1101/2023.12.21.572937v1))
-| **GDNF**              |Regulation of neuroinflammatory processes|([Shalkovskyi & Stanislavchuk, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11114127/))|
+| **GDNF**              |Regulation of neuroinflammatory processes.|([Shalkovskyi & Stanislavchuk, 2024](https://pmc.ncbi.nlm.nih.gov/articles/PMC11114127/))|
 
 
 ---
