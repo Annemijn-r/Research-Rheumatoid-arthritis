@@ -67,7 +67,7 @@ Differential expression between RA and control group was analysed using DESeq2 (
 #### Pathway and Enrichment Analysis
 GO enrichment analysis was carried out with clusterProfiler (V4.14.6l; [Wu et al., 2021](https://doi.org/10.1016/j.xinn.2021.100141)) with the org.Hs.eg.db (V3.20.0; [Carlson, 2023](https://bioconductor.org/packages/org.Hs.eg.db/)) database. Results were visualized with barplots and dotplots using ggplot2 (V3.5.2; [Wickham, 2016](https://ggplot2.tidyverse.org)).
 
-The complete analysis and all scripts are available on GitHub ([link]().
+The complete analysis and all scripts are available on [GitHub](RData_RA).
 <p align="center">
   <img src="Used_images/Flowchart methods.png" alt="flowchart" width="600"/>
 </p>
