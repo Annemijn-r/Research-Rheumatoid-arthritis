@@ -1,4 +1,4 @@
-# Transcriptomic Analysis Shows Immune and Neurogenic Pathway Alterations in Rheumatoid Arthritis
+# Transcriptomic Analysis of Rheumatoid Arthritis Shows Immune and Neurogenic Pathway Alterations
 ---
 <p align="center">
   <img src="Used_images/ds00020_im02689_r7_rheumatoidarthritisthu_jpg.jpg.webp" alt="flowchart" width="600"/>
